@@ -1,7 +1,7 @@
 {
-  "name": "material-ui-mdi",
-  "version": "0.5.0",
-  "description": "Community Material Design Icons as Material-UI SvgIcon components",
+  "name": "react-mdi",
+  "version": "0.5.1",
+  "description": "Community Material Design Icons as react svg components",
   "main": "",
   "scripts": {
     "clone-material-ui": "git clone https://github.com/gabriel-miranda/material-ui.git && cd material-ui/packages/icon-builder && npm install",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/conundrumer/material-ui-mdi.git"
+    "url": "git+https://github.com/gabriel-miranda/react-mdi.git"
   },
   "keywords": [
     "react",
@@ -24,17 +24,15 @@
     "icon",
     "svg",
     "material-ui",
-    "mui",
     "mdi"
   ],
-  "author": "David Lu",
+  "author": "David Lu & Gabriel Miranda",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/conundrumer/material-ui-mdi/issues"
+    "url": "https://github.com/gabriel-miranda/react-mdi/issues"
   },
-  "homepage": "https://github.com/conundrumer/material-ui-mdi#readme",
+  "homepage": "https://github.com/gabriel-miranda/react-mdi#readme",
   "peerDependencies": {
-    "material-ui": "*",
     "react": "*"
   },
   "dependencies": {
