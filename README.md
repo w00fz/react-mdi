@@ -31,7 +31,7 @@ export default class Account extends React.Component {
 ## Props
 | Prop        | Default value | Usage                                                                                                  |
 |:------------|:--------------|:-------------------------------------------------------------------------------------------------------|
-| `size`      | **24**        | Used to set the `viewBox` prop/attribute on the svg and the `height`and `width` in the style attribute |
+| `size`      | **24**        | Used to set the `height`and `width` in the style attribute                                             |
 | `className` | **null**      | Used to apply a css class to the component and properly style it                                       |
 
 ## Build
