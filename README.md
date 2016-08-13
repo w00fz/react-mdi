@@ -17,7 +17,7 @@ npm install react-mdi
 ```js
 import React from 'react';
 
-import AccountIcon from 'material-ui-mdi/icons/account';
+import AccountIcon from 'react-mdi/icons/account';
 
 export default class Account extends React.Component {
   render() {
